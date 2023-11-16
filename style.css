@@ -1,0 +1,20 @@
+ @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&display=swap');
+body {
+    background: black;
+    color: white;
+    font-family: Quicksand ;
+}
+
+.header {
+    background-color: red;
+    display: flex;
+        
+}
+
+.header .name {
+    color: lime;
+}
+
+.header .all {
+    color: aqua;
+}
